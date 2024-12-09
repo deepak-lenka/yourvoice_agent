@@ -1,4 +1,4 @@
-# Sarvam Voice Agent
+# Sarvam API Voice Agent
 
 This project implements an interactive voice agent using the Sarvam AI API. The agent can understand and respond in multiple languages, including English, Hindi, and Odia. It supports text input and generates both text and audio responses.
 
